@@ -1,4 +1,4 @@
-# DevOps Assignment README.
+# DevOps Assignment
 
 
 ## Note: This documentation  includes:
